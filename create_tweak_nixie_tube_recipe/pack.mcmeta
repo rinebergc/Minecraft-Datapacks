@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Reduce the output of Create's Nixie Tube recipe from 4 to 1"
+  }
+}

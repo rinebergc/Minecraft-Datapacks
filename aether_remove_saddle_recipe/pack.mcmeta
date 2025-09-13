@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Removes The Aether mod's cheap saddle recipe"
+  },
+  "filter": {
+    "block": [
+      {
+        "path": "recipe/aether_saddle.json"
+      }
+    ]
+  }
+}

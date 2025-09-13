@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BNS",
+    "BRB",
+    "BBB"
+  ],
+  "key": {
+    "N": {
+      "item": "create:nixie_tube"
+    },
+    "S": {
+      "item": "minecraft:spyglass"
+    },
+    "R": {
+      "item": "waterframes:remote"
+    },
+    "B": {
+      "item": "create:brass_ingot"
+    }
+  },
+  "result": {
+    "id": "waterframes:projector",
+    "item": "waterframes:projector",
+    "count": 1
+  }
+}
