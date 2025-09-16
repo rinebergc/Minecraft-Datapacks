@@ -1,7 +1,7 @@
 {
   "pack": {
     "pack_format": 48,
-    "description": "Removes The Aether mod's cheap saddle recipe"
+    "description": "Removes The Aether mod's cheap saddle recipe - Demonstrates two ways in which to do so"
   },
   "filter": {
     "block": [
