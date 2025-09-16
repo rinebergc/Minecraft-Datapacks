@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " P ",
+    "EOB",
+    " W "
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    },
+    "O": {
+      "tag": "c:ender_pearls"
+    },
+    "B": {
+      "item": "minecraft:blaze_powder"
+    },
+    "W": {
+      "item": "minecraft:wind_charge"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:ender_eye"
+  }
+}
