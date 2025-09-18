@@ -8,6 +8,10 @@
       {
         "namespace": "^endermanoverhaul$",
         "path": "^recipe/ender_eye.json$"
+      },
+      {
+        "namespace": "^netherdepthsupgrade$",
+        "path": "^recipe/ender_eye.json$"
       }
     ]
   }
