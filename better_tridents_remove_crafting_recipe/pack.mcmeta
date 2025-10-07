@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Removes the trident recipe from Better Tridents"
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "bettertridents",
+        "path": "recipe/trident.json"
+      }
+    ]
+  }
+}
